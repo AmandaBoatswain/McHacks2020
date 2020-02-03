@@ -1,3 +1,6 @@
+# Bar code reader for the McWics Hackathon - Original CV code taken from this blog post:
+# https://www.pyimagesearch.com/2014/12/15/real-time-barcode-detection-video-python-opencv/
+
 # McWics Hackathon project
 
 # import the necessary packages
