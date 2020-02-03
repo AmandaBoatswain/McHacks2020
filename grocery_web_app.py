@@ -1,6 +1,6 @@
 # GROCERY_APP (ver 2)
 # USAGE
-# python webstreaming.py --ip 0.0.0.0 --port 8000
+# python grocery_web_app.py
 
 """ Create a new function to read the video stream and extract the information
 (frame + data of object). Let's do this!!  """
