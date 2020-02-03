@@ -17,6 +17,6 @@ Go to: http://localhost:5000/ and test the app!
 
 More info on this app and its contributors can be found on our devpost page: https://devpost.com/software/i-better-munch-it-ibm
 
-![App Interface(https://github.com/AmandaBoatswain/McHacks2020/blob/master/App%20interface.png)
+![App Interface](https://github.com/AmandaBoatswain/McHacks2020/blob/master/App%20interface.png)
 
-![App Database(https://github.com/AmandaBoatswain/McHacks2020/blob/master/App%20database.png)
+![App Database](https://github.com/AmandaBoatswain/McHacks2020/blob/master/App%20database.png)
