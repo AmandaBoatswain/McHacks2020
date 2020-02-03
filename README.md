@@ -11,10 +11,10 @@ To run this code, you need to have a version of python 3 up and running.This cod
 TO RUN
 
 Download all the files from the zip folder.
-Open a terminal and cd to the project folder
+Open a terminal and cd to the project folder.
 Run $ python grocery_web_app.py to start the program.
 Go to: http://localhost:5000/ and test the app! 
 
-
+More info on this app and its contributors can be found on our devpost page: https://devpost.com/software/i-better-munch-it-ibm
 
 
